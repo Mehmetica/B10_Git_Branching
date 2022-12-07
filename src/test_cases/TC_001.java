@@ -7,6 +7,8 @@ public class TC_001 {
 
         //testler gelmeeye decvam ediuyor vbıougğlülnl çok mesgul bir gün olacak givcbi doıurutrypyor
 
+        //negativwe testing
+
 
     }
 }
